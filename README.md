@@ -7,7 +7,6 @@
 <a href="https://twitter.com/Tanvii_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tanvii_26" height="30" width="40" /></a>
 <a href="https://discord.gg/Tanvii#2326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tanvii" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Tanvii_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Tanvii_26" height="30" width="40" /></a>
-<a href="https://reddit.com/user/Freaky-Stuart_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Tanvii_26" height="30" width="40" /></a>
 <a href="https://kaggle.com/tanvii26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Tanvi Verma" height="30" width="40" /></a>
 </p>
 
