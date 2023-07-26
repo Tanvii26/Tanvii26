@@ -1,5 +1,5 @@
 # 💫 Hii there, I'm Tanvi!! 
-🔭 I’m currently working on Health Community Project<br>🤝 I’m looking for help with AI and Bot Creation<br>🌱 Currently learning Backend development<br>⚡ Fun fact : Weirdly interested in reading 
+🔭 Working on a Health Community Project<br>🤝 I’m looking for help with AI and Bot Creation<br>🌱 Learning Backend development<br>⚡ Fun fact : Weirdly interested in reading 
 
 ## 🌐 Socials:
 <p align="left">
